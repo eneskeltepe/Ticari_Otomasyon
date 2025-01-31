@@ -19,7 +19,6 @@
 - [Teknik Detaylar](#-teknik-detaylar)
 - [Katkıda Bulunma](#-katkıda-bulunma)
 - [Lisans](#-lisans)
-- [İletişim](#-iletişim)
 
 ## 🎯 Proje Hakkında
 
